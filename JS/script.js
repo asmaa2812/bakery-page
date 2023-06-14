@@ -15,7 +15,7 @@ window.addEventListener('scroll' , ()=>{
     }
 })
  
-  arrowTop.addEventListener('click' , ()=>{
+arrowTop.addEventListener('click' , ()=>{
        window.scrollTo(0,30)
        })
     
